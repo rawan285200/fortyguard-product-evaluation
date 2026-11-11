@@ -1,0 +1,7 @@
+env
+_pycache_/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+results/*.json
